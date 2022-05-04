@@ -14,3 +14,5 @@ Collection of assignment instructions found on the internet publically.
 - https://www.seas.upenn.edu/~cis197/assignments
 # Data Science:
 - https://github.com/IndraniMandal/CSC310-S20
+# Dynamic Programming
+- http://personal.denison.edu/~kretchmar/271/ProjectHandout.pdf
