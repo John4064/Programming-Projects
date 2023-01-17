@@ -1,4 +1,4 @@
-# Programming-Assignments
+# Programming-Projects
 Collection of assignment instructions found on the internet publically.
 
 # Rest Api:
